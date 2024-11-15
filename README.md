@@ -17,5 +17,4 @@ Here are some ideas to get you started:
 
 
 [![LeBonWskii's GitHub stats](https://github-readme-stats.vercel.app/api?username=LeBonWskii&count_private=true&show_icons=true&theme=github_dark)](https://github.com/LeBonWskii/github-readme-stats)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=LeBonWskii&repo=github-readme-stats)](https://github.com/LeBonWskii/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LeBonWskii&layout=compact)](https://github.com/LeBonWskii/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LeBonWskii&layout=compact&theme=github_dark)](https://github.com/LeBonWskii/github-readme-stats)
