@@ -1,4 +1,4 @@
-## Hi there 👋 I'm LeBonWskii!
+# Hi there 👋 I'm LeBonWskii!
 ## About Me 👨‍💻
 I'm a Computer Science engineer and an Artificial Intelligence and Data Engineering student at the University of Pisa.
 ## Contacts 📞
